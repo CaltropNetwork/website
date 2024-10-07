@@ -74,6 +74,9 @@ const images = [
     'whaat.png',
     'worried.png',
     'wrongway.jpg',
+    'vilcken.jpg',
+    'Enderchicken.jpg',
+    'EnderWater.jpg',
     'wtf.png'
 ];
 
