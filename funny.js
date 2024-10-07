@@ -46,7 +46,7 @@ const images = [
     'man.png',
     'medicriddled.png',
     'nailheavy.png',
-    'nail party.png',
+    'nail-party.png',
     'pedo.png',
     'pew.jpg',
     'pixel.png',
