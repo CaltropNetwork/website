@@ -38,7 +38,7 @@ const images = [
     'hopscotch.png',
     'horror.jpg',
     'iknow.png',
-    'lennon sniper.png',
+    'lennon-sniper.png',
     'linux.png',
     'lmdakaen.png',
     'lonk.jpg',
@@ -49,8 +49,8 @@ const images = [
     'nail party.png',
     'pedo.png',
     'pew.jpg',
-    'pixel.png'.
-    'pyro goku.png',
+    'pixel.png',
+    'pyro-goku.png',
     'pyro.png',
     'rds.png',
     'redrocket.png',
@@ -81,5 +81,5 @@ const images = [
 const randomIndex = Math.floor(Math.random() * images.length);
 
 // Get the image container div
-document.getElementById('imageContainer').innerHTML = "<img src='/funny/" + ${images[randomIndex]} + "' alt='funny image'>";
+document.getElementById('imageContainer').innerHTML = `<img src='/funny/${images[randomIndex]}' alt='extremely hilarious image' title='extremely hilarious image' width=300>`;
 
