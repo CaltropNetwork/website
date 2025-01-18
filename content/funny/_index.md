@@ -1,0 +1,23 @@
++++
+title = "funny"
+template = "index.html"
++++
+
+## Funny Images
+<noscript>Since you have Javascript disabled, just go here.</noscript>
+<script>
+      (async () => {
+        const response = await fetch('https://api.github.com/repos/CaltropNetwork/website/contents/content/funny/');
+        const data = await response.json();
+        let htmlString = '<ul>';
+
+        for (let file of data) {
+          htmlString += `<li><a href="https://caltrop.asterisk.lol/${file.path}">${file.name}</a></li>`;
+        }
+
+        htmlString += '</ul>';
+        document.getElementById("list").innerHTML = htmlString;
+      })()
+</script>
+
+<div id="list"></div>
