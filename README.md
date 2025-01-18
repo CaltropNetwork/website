@@ -2,8 +2,7 @@
 
 Made with [Zola](https://getzola.org) and [Duckquill](https://duckquill.daudix.one).
 
-## build
-
+## Build
 
 ```
 git submodule init
