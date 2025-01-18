@@ -1,6 +1,7 @@
 title = "Caltrop Network"
 # The URL the site will be built for
 base_url = "https://caltrop.asterisk.lol"
+description = "Hosting simple, yet fun servers." 
 
 theme = "duckquill"
 
