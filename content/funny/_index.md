@@ -4,7 +4,7 @@ template = "index.html"
 +++
 
 ## Funny Images
-<noscript>Since you have Javascript disabled, just go here.</noscript>
+<noscript>Since you have Javascript disabled, just go <a href="https://github.com/CaltropNetwork/website/tree/main/content/funny" target="_blank" rel="noopener noreferrer">here</a>.</noscript>
 <script>
       (async () => {
         const response = await fetch('https://api.github.com/repos/CaltropNetwork/website/contents/content/funny/');

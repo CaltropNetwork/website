@@ -8,5 +8,5 @@ title = "The Caltrop Network"
 Hosting simple, yet fun servers.
 </div>
 <br>
-<noscript>You need Javascript enabled to see a random funny image! You can look at a list of them here instead.</noscript>
+<noscript>You need Javascript enabled to see a random funny image! You can look at a list of them <a href="https://github.com/CaltropNetwork/website/tree/main/content/funny" target="_blank" rel="noopener noreferrer">here</a> instead.</noscript>
 <div id=imageContainer></div>
