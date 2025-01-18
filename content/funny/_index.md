@@ -12,7 +12,7 @@ template = "index.html"
         let htmlString = '<ul>';
 
         for (let file of data) {
-          htmlString += `<li><a href="https://caltrop.asterisk.lol/${file.path}">${file.name}</a></li>`;
+          htmlString += `<li><a href="https://caltrop.asterisk.lol/funny/${file.name}">${file.name}</a></li>`;
         }
 
         htmlString += '</ul>';
