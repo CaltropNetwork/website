@@ -22,4 +22,4 @@ paginate_by = 2
 ```
 {% end %}
 <br>
-This is where we post updates.
+This is where I post updates and my personal ramblings (a nanolog *and* a blog).
