@@ -78,7 +78,8 @@ const images = [
     'Enderchicken.jpg',
     'EnderWater.jpg',
     'escape.png',
-    'wtf.png'
+    'wtf.png',
+    'uncledeadted.jpg'
 ];
 
 // Get a random index from the images array
