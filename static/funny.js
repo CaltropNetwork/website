@@ -79,7 +79,8 @@ const images = [
     'EnderWater.jpg',
     'escape.png',
     'wtf.png',
-    'uncledeadted.jpg'
+    'uncledeadted.jpg',
+    'kernel.webp'
 ];
 
 // Get a random index from the images array
