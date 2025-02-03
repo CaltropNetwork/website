@@ -21,7 +21,7 @@ const messages = [
     'That stupid sentry is still up!',
     'web <b>d</b><sub>e</sub>si<i>g</i>n <code>is</code> <b>m</b>y p<u>a</u><q>s</q><sup>s</sup><i>i</i>on.',
     'You know you can read all these on github and shit right?',
-    '<code>wacky_races_pf2</code> 👻'
+    '<code>wacky_races_v2_pf2</code> 👻'
 ];
 
 const messageIndex = Math.floor(Math.random() * messages.length);
