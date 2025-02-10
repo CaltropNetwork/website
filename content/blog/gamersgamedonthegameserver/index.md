@@ -3,6 +3,8 @@ title = "Gamers Gamed on the Game Server"
 description = "The server's first full active day!"
 date = 2025-01-19
 authors = ["Asterisk"]
+[taxonomies]
+tags = ["Ramblings"]
 [extra]
 banner = "wowee.png"
 +++

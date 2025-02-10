@@ -3,6 +3,8 @@ title = "First Post"
 authors = ["Asterisk"]
 description = "Welcome to the new website!"
 date = "2025-01-18"
+[taxonomies]
+tags = ["Updates"]
 [extra]
 banner = "dht1.png"
 +++

@@ -47,11 +47,13 @@ show_share_button = true
 [extra.nav]
 show_feed = true
 show_theme_switcher = true
-show_repo = true
+show_repo = false
 links = [
     { url = "@/blog/_index.md", name = "Blog" },
     { url = "@/about/_index.md", name = "About" },
-    { url = "@/servers/_index.md", name = "Servers" }
+    { url = "@/servers/_index.md", name = "Servers" },
+    { url = "/sb", name = "Bans" },
+    { url = "/stats", name = "Stats" },
 ]
 [extra.footer]
 show_copyright = false
