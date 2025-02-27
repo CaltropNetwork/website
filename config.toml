@@ -52,6 +52,7 @@ links = [
     { url = "@/blog/_index.md", name = "Blog" },
     { url = "@/about/_index.md", name = "About" },
     { url = "@/servers/_index.md", name = "Servers" },
+    { url = "@/request-map/_index.md", name = "Suggest Map" },
     { url = "/sb", name = "Bans" },
     { url = "/stats", name = "Stats" },
     { url = "/demos", name = "Demos" },
