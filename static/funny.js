@@ -81,7 +81,10 @@ const images = [
     'wtf.png',
     'uncledeadted.jpg',
     'kernel.webp',
-    'angyhoovy.png'
+    'angyhoovy.png',
+    'protest.png',
+    'bucket.png',
+    'doublekill.png'
 ];
 
 // Get a random index from the images array

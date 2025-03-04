@@ -21,7 +21,16 @@ const messages = [
     'That stupid sentry is still up!',
     'web <b>d</b><sub>e</sub>si<i>g</i>n <code>is</code> <b>m</b>y p<u>a</u><q>s</q><sup>s</sup><i>i</i>on.',
     'You know you can read all these on github and shit right?',
-    '<code>wacky_races_v2_pf2</code> 👻'
+    '<code>wacky_races_v2_pf2</code> 👻',
+    'i wan pink role',
+    "I'd like to protest.",
+    'Sourcemod 1.12 out of the box!',
+    'People who hate Sniper are the same people who walk straight forward towards the enemy.',
+    'jebobi',
+    'the voices',
+    'bucket',
+    'The map pool just keeps getting bigger!',
+    "I've run out of ideas."
 ];
 
 const messageIndex = Math.floor(Math.random() * messages.length);
