@@ -22,7 +22,7 @@ template = "index.html"
 <mark><a href="steam://connect/76.164.192.116:27015">76.164.192.116:27015</a></mark>
 <br>
 <h2 style="color:var(--accent-color);">Better Than Adventure!</h2>
-<mark><b>167.248.175.151</b></mark>
+<mark><b>76.164.192.116:25575</b></mark>
 </div>
 
 <div class="buttons centered">
