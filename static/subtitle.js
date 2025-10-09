@@ -27,6 +27,7 @@ const messages = [
     'Sourcemod 1.12 out of the box!',
     'People who hate Sniper are the same people who walk straight forward towards the enemy.',
     'jebobi',
+    'SHIT MAP SHIT SERVER GOODBYE',
     'the voices',
     'bucket',
     'The map pool just keeps getting bigger!',
