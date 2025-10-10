@@ -92,6 +92,6 @@ The nativevotes package comes with nativevotes versions of `basecommands`, `mapc
 
 ![The above image without the soyjacks](mapvote.jpg#no-hover)
 
-!["VOTE PASSED: changing map to thebeefhammerdeluxe_a1..."](mapvote_success.jpg#no-hover)
+!["VOTE PASSED: changing map to thebeefhammer_deluxe_a1..."](mapvote_success.jpg#no-hover)
 
 !["Nativevotes is the best: yes/no" with a vote progress hintbox at the bottom. A red Scout and the map garbage_day can also be seen.](basicvote.jpg#no-hover)
