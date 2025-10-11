@@ -24,6 +24,6 @@ template = "index.html"
 </div>
 
 <div class="buttons centered">
-<a href="https://caltropnetwork.github.io/maplist" class="external big" target="_blank" rel="noopener noreferrer">Map list</a>
+<a href="https://caltropnetwork.github.io/pf2" class="external big" target="_blank" rel="noopener noreferrer">Map list</a>
 <a href="https://stats.uptimerobot.com/4PWO2UYXJN/" class="external big" target="_blank" rel="noopener noreferrer">Status</a>
 </div>
