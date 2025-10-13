@@ -16,6 +16,7 @@ const messages = [
     'Served at 3000 Kelvin',
     'bottom text',
     'urgh',
+    'No, this server is not dead.',
     "You want maps? We got maps!",
     "We've got it, you want it! You want it? We've got it! You want it!",
     'And everyone died.',
