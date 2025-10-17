@@ -3,21 +3,20 @@ title = "funny"
 template = "index.html"
 +++
 
-## Funny Images
+<style>
+/* small layout tweaks so the search sits nicely */
+header.funny-header { display: flex; gap: 1rem; align-items: center; margin: 0.75rem 0; flex-wrap: column; }
+#funny-search { flex: 1; min-width: 220px; max-width: 720px; padding: 0.35rem 0.6rem; }
+#list ul { padding-left: 1rem; margin-top: 0.5rem; }
+</style>
+
+<header class="funny-header">
+  <h1>Funny Images</h1>
+  </header><br>
+  <input id="funny-search" type="search" placeholder="🔍 Search images..." aria-label="Search funny images" />
+
 <noscript>Since you have Javascript disabled, just go <a href="https://github.com/CaltropNetwork/website/tree/main/content/funny" target="_blank" rel="noopener noreferrer">here</a>.</noscript>
-<script>
-      (async () => {
-        const response = await fetch('https://api.github.com/repos/CaltropNetwork/website/contents/content/funny/');
-        const data = await response.json();
-        let htmlString = '<ul>';
 
-        for (let file of data) {
-          htmlString += `<li><a href="https://caltrop.asterisk.lol/funny/${file.name}">${file.name}</a></li>`;
-        }
+<div id="list">Loading...</div>
 
-        htmlString += '</ul>';
-        document.getElementById("list").innerHTML = htmlString;
-      })()
-</script>
-
-<div id="list"></div>
+<script src="funnysearch.js"></script>
