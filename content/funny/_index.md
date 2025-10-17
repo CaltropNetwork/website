@@ -19,4 +19,4 @@ header.funny-header { display: flex; gap: 1rem; align-items: center; margin: 0.7
 
 <div id="list">Loading...</div>
 
-<script src="funnysearch.js"></script>
+<script src="/funnysearch.js"></script>
