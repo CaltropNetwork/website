@@ -19,7 +19,7 @@ template = "index.html"
 <br>
 <div align="center">
 <h2 style="color:var(--accent-color);">Pre-Fortress 2</h2>
-<mark><a href="steam://connect/64.58.39.141:27015">64.58.39.141:27015</a></mark>
+<mark><a href="steam://connect/64.72.255.92:27015">64.72.255.92:27015</a></mark>
 <br>
 </div>
 
