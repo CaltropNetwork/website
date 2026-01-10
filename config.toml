@@ -19,14 +19,21 @@ build_search_index = true
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
-highlight_theme = "css"
-highlight_themes_css = [
-	{ theme = "solarized-dark", filename = "syntax-theme-dark.css" },
-	{ theme = "solarized-light", filename = "syntax-theme-light.css" }
-]
+#highlighting = true
+#highlight_theme = "css"
+#highlight_themes_css = [
+#	{ theme = "solarized-dark", filename = "syntax-theme-dark.css" },
+#	{ theme = "solarized-light", filename = "syntax-theme-light.css" }
+#]
 smart_punctuation = true
 bottom_footnotes = true
+
+[markdown.highlighting]
+
+style = "inline"
+
+dark_theme = "solarized-dark"
+light_theme = "solarized-light"
 
 [search]
 index_format = "fuse_json"
