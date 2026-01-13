@@ -84,6 +84,7 @@ const images = [
     'angyhoovy.png',
     'protest.png',
     'bucket.png',
+    'sandbowl.jpg',
     'doublekill.png'
 ];
 
